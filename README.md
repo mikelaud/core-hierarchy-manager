@@ -3,7 +3,7 @@
 Core Hierarchy Java-Component
 
 **Usage:**
-- https://github.com/mikelaud/core-types/blob/master/src/test/java/mikelaud/core/hierarchy/HierarchyManagerDemo.java
+- https://github.com/mikelaud/core-hierarchy-manager/blob/master/src/test/java/mikelaud/core/hierarchy/HierarchyManagerDemo.java
 
 **Maven:**
 ```XML
